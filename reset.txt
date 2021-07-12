@@ -1,0 +1,5 @@
+Arquivo Criado para falar do Comando RESET
+
+GIT RESET -> é um comando poderoso usado para desfazer alterações locais no estado de um repositório do Git. 
+O git reset opera nas "três árvores do Git". 
+Essas árvores são o Histórico de commits ( HEAD ), o Índice de staging e o Diretório de trabalho.
