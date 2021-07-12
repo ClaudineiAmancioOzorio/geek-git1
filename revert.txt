@@ -1,0 +1,5 @@
+Criando um novo arquivo para falar do REVERT
+
+GIT REVERT -> pode ser considerado um comando do tipo "desfazer"; no entanto, ele não é uma operação tradicional de desfazer. 
+Em vez de remover o commit do histórico do projeto, ele descobre como desfazer as alterações 
+introduzidas pelo commit e anexa um commit novo com o conteúdo resultante
